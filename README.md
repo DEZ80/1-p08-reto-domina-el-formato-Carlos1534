@@ -5,7 +5,7 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 
 ## Actividad 1: 4 Píxeles Rojos
 ```
-3E 77 32 00 C0 18 FE
+3E FF 32 00 C0 18 FE
 ```
 PC: 4000
 
