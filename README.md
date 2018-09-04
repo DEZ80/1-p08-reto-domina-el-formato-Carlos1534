@@ -35,4 +35,5 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/rojo4.png)
+![Actividad 2](/colores2.png)
 
